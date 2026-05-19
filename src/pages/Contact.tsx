@@ -40,9 +40,9 @@ export default function Contact() {
                 <div>
                   <h3 className="font-medium text-coffee-cream text-lg mb-1">Our Location</h3>
                   <p className="text-coffee-gray">
-                    123 Coffee Bean St.<br />
-                    Seattle, WA 98101<br />
-                    United States
+                    Brgy 5 San Francisco Agusan Delsur<br />
+                    Build A-1 of public factory Agusan <br />
+                    Philippine
                   </p>
                 </div>
               </div>
@@ -54,8 +54,8 @@ export default function Contact() {
                 <div>
                   <h3 className="font-medium text-coffee-cream text-lg mb-1">Phone Number</h3>
                   <p className="text-coffee-gray">
-                    +1 (555) 123-4567<br />
-                    Mon - Fri, 8am - 5pm PST
+                    +63 955 367 3625<br />
+                    Mon - Fri, 8am - 5pm PH
                   </p>
                 </div>
               </div>
@@ -67,8 +67,8 @@ export default function Contact() {
                 <div>
                   <h3 className="font-medium text-coffee-cream text-lg mb-1">Email Address</h3>
                   <p className="text-coffee-gray">
-                    hello@chariesseeds.com<br />
-                    support@chariesseeds.com
+                    jeremyabiera72@gmail.com <br />
+                    yumisbusiness88@gmail.com
                   </p>
                 </div>
               </div>

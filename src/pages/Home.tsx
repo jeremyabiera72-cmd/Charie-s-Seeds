@@ -218,13 +218,13 @@ export default function Home() {
             <h3 className="text-4xl md:text-5xl font-serif text-coffee-cream mb-8 leading-tight">Rooted in Tradition,<br/>Perfected by Science</h3>
             <div className="space-y-6 text-coffee-gray">
               <p>
-                Our journey began on the misty slopes of the Andes mountains, where we discovered that the secret to the ultimate cup of coffee lies entirely within the raw seed. 
+                Charie’s Seeds began as a family tradition rooted in the rich agricultural lands of Agusan del Sur, where farming has been a way of life passed down through generations. Built on dedication, hard work, and deep respect for nature, our family continues to cultivate seeds with passion and authenticity.
               </p>
               <p>
-                At Charie's Seeds, we bypass the middleman. We partner directly with multigenerational farmers who understand the delicate alchemy of soil, altitude, and climate. Together, we harvest only the ripest cherries, employing exact processing methods to preserve the inherent flavor profiles.
+               At Charie’s Seeds, we provide pure and high-quality seed products carefully grown and selected with extensive care. We take pride in offering locally nurtured seeds that are not imported, ensuring freshness, reliability, and the natural quality trusted by farmers and growers in the community.
               </p>
               <p>
-                From meticulous fermentation tracing back centuries to state-of-the-art sorting technology, we ensure every seed that reaches your roaster is flawless. It’s not just coffee; it’s an agricultural obsession.
+                From traditional farming knowledge to modern cultivation practices, every seed we produce reflects our commitment to excellence and sustainable agriculture. More than just a product, our seeds represent family heritage, genuine care, and a promise to help every harvest grow stronger and healthier.
               </p>
             </div>
           </motion.div>
