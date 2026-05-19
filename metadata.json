@@ -1,0 +1,6 @@
+{
+  "name": "Charie's Seeds",
+  "description": "A premium, modern e-commerce platform for high-quality coffee seeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
