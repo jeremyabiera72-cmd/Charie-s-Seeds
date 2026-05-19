@@ -2,7 +2,7 @@ import { useState, FormEvent } from 'react';
 import { useCart } from '../context/CartContext';
 import { motion } from 'motion/react';
 import { Link, useNavigate } from 'react-router-dom';
-import { CreditCard, Truck, ShieldCheck, CheckCircle2 } from 'lucide-react';
+import { CreditCard, Truck, ShieldCheck, CheckCircle2, Lock } from 'lucide-react';
 
 export default function Checkout() {
   const { items, totalPrice, clearCart } = useCart();
